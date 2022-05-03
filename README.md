@@ -13,10 +13,10 @@
  Al salir de prision recorre el pais en el mustang que reconstruyo para poder participar en la carrera con el premio mas grande: La "De Leon", en la cual tambien participa Dino, durante el viaje es perseguido por la policia y cazarreccompensas, cuando su auto es destruido, la hermana de Pete decide ayudarlo entregandole el auto con el que Dino mata a Pete para que gane La "De Leon".
 
 #### ¿Que tipos de autos aparecen en la pelicula?
- - [x] Autos deportivos
- - [x] Muscle Cars
- - [x] Autos Clasicos
- - [x] Autos modernos
+ - [X] Autos deportivos
+ - [X] Muscle Cars
+ - [X] Autos Clasicos
+ - [X] Autos modernos
 
 ##### Imagenes de la pelicula:
 ![imagen1](/img/img1.jpg)
