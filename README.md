@@ -2,7 +2,7 @@
  En este proyecto se realizara la 1ra convocatoria de la evaluacion final.
 
 # ¿Cual es mi pelicula favorita?
- Mi pelicula favorita es Need for Speed
+ Mi pelicula favorita es Need for Speed :tada:
 
 ## ¿Porque es mi favorita? :+1:
  Es mi pelicula favorita debido a que me gusta su trama, sus personaes, ademas me gusta ver peliculas de acerca de autos o carreras. :shipit:
@@ -12,11 +12,12 @@
 
  Al salir de prision recorre el pais en el mustang que reconstruyo para poder participar en la carrera con el premio mas grande: La "De Leon", en la cual tambien participa Dino, durante el viaje es perseguido por la policia y cazarreccompensas, cuando su auto es destruido, la hermana de Pete decide ayudarlo entregandole el auto con el que Dino mata a Pete para que gane La "De Leon".
 
-#### ¿Que tipos de autos aparecen en la pelicula?
-- [x] Autos deportivos
-- [x] Muscle Cars
-- [x] Autos Clasicos
-- [x] Autos modernos
+#### ¿Que tuvo la pelicula?
+- [x] Carreras callejeras
+- [x] Escenas de accion
+- [x] Autos Clasicos y modernos
+- [ ] Amplio desarrollo de personajes secundarios
+- [ ] Escenas con acrobacias o autos irreales
 
 ##### Imagenes de la pelicula:
 ![imagen1](/img/img1.jpg)
