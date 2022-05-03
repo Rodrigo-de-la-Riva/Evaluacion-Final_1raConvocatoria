@@ -19,5 +19,5 @@
  - [x] Autos modernos
 
 ##### Imagenes de la pelicula:
-![imagen1](../img/img1.jpg)
-![imagen1](../img/img2.jpg)
+![imagen1](/img/img1.jpg)
+![imagen1](/img/img2.jpg)
